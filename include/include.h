@@ -1,5 +1,5 @@
 //
-// Created by Cherednik on 19.12.2021.
+// Created by Cherednik
 //
 
 #ifndef UNTITLED_INCLUDE_H
